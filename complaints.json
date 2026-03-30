@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Lakshita",
+        "issue": "wifi not working",
+        "status": "Resolved"
+    },
+    {
+        "id": 2,
+        "name": "Sayali ",
+        "issue": "fan not working",
+        "status": "Resolved"
+    },
+    {
+        "id": 3,
+        "name": "Yashi ",
+        "issue": "drinking water is not safe",
+        "status": "Resolved"
+    }
+]
