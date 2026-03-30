@@ -19,7 +19,7 @@ This project is a GUI-based application built using Python and Tkinter to manage
    python main.py
 
 ## Login Credentials
-Admin:
+Admin: 
 username: admin
 password: admin123
 
